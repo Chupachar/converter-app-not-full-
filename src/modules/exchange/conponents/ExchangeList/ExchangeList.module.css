@@ -1,0 +1,18 @@
+.exchange__list {
+    list-style-type: none;
+    padding: 0;
+}
+.exchange__list__item {
+    position: sticky;
+    top: 0;
+    padding: 0 12px 12px 12px;
+    font-size: 24px;
+    z-index: 1;
+}
+.item {
+    font-size: 22px!important;
+    font-weight: 600!important;
+}
+.list__container {
+    max-width: 744px;
+}

@@ -1,0 +1,17 @@
+.list {
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+    padding: 0;
+}
+.list__item {
+    color: #663233;
+    font-weight: 500;
+    margin: 32px;
+    text-decoration: none;
+    font-size: 48px;
+    transition: .3s;
+}
+.active {
+    color: #FF7F54;
+}
